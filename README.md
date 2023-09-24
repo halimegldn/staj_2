@@ -3,3 +3,4 @@
 "# m-steri_kayit" 
 "# m-steri_kayit" 
 "# musteri_kayit" 
+"# alisveris" 
